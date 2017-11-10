@@ -13,25 +13,36 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Demo Jekyll Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a demo installation of the popular static site generator, Jekyll. 
+  We are playing with the various features and functionalities offered by it. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+google_username: jekyllrb
+
+permalink: /:title
+
+links:
+  - title: about
+    url: /about/
+  - title: work
+    url: /work/
+  - title: contact
+    url: /contact/
+
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: jekyll-swiss
+theme: minima
+#theme: jekyll-swiss
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: orange
+#theme_color: orange
 
 plugins:
   - jekyll-feed
