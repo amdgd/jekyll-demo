@@ -2,58 +2,83 @@
 layout: post
 date:   2017-11-10 13:05:32 +0530
 categories: blogging
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned |  1600 |
-| col 2 is      | centered      |    12 |
-| zebra stripes | are neat      |     1 |
-
-
-# Heading
-## Sub-heading
-### Another deeper heading
-
-Paragraphs are separated
-by a blank line.
-
-Two spaces at the end of a line leave a  
-line break.
-
-Text attributes _italic_, *italic*, __bold__, **bold**, `monospace`.
-
-
-Bullet list:
-
-  * apples
-  * oranges
-
-Numbered list:
-
-  1. apples
-  2. oranges
-
-A [link](http://example.com)
-
+title: Rubefacta simul crines
 ---
 
+# Rubefacta simul crines
 
-Jekyll also offers powerful support for code snippets:
+## Animosa nullique illa una excipiunt precor etiamnum
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Lorem markdownum revulsum quod. Saevo properatis incompta, et carpit timorem
+parentis, **timore**, qui atros, sed res *atque* est, recludi. Dentibus vocant
+lugentis **causa heros** ille sanctius sed paulumque eram cumulo et. Patris
+vinctorum, et quoque dabat quas suco ab priora lenimen, aetas mentis perdidimus
+triste, cum. Pronis iubebat senior licet.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Mallem est Athenae, altam natum meas, quantaque illas tenues arbor: dixit peti
+superata pro [cuius](http://amori.com/usum). Fuerunt toto stellatus,
+Amphitryoniaden clamavit si senes tritumque exturbare sitim venit *mediisque*
+Arethusa si.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+    if (3) {
+        mbps_symbolic(protocolSymbolicTransfer.browser_lun.wikiGibibyteHtml(
+                489877, flowchartAddress, podcastDown), abend,
+                systemAbendIscsi);
+    }
+    adBotnetE += facebook_kilohertz_native.ppc_rw_dot(encodingDomainVertical -
+            igpBatch.gigahertz.volume_lamp_tweak(5, gnutellaCoreDomain),
+            kilohertz_desktop, 5);
+    class_pc_standalone = clipPage(13 + kilobyteCyclePpm, 520043);
+    if (affiliate_finder_optical + ultraPageEthics + virus >=
+            direct.serial_default_oem(e_prebinding_zone)) {
+        bug += 367166 - macro_blu.data(uddi_alpha_web);
+        property_queue(javascript_antivirus_hover, -1 + nocFooterOasis,
+                font_cycle);
+    }
+    var pumJreHardware = flash;
+
+## Nunc flumen iuvenes sorores
+
+Fugit **unum armiferae** tandem ossa pulcherrime flere iudice meum perstant,
+alimentaque? Tuum vulnera, ipsi, Iovis barbaque praeterea litus argumenta nempe,
+sed et hanc tamen, Io. Pleuron lexque vincet traxit fuit. Sint et iussa geminis
+sensit iste recinctas talia; Themin corripitur pacatum intravimus meae sinus.
+
+1. Saxificos et vidi tenues alveo
+2. Demunt traxere ut simulac tua
+3. Necopina crurumque aut placeas conamine meruique cretum
+4. Unus referam potes doctam vovistis ponderibus dixit
+
+## Maduere et vertex
+
+Rimis est fratris saepius, *hastam* novantur frequentant orbem breviore,
+reddere. Lascivitque quid. Fata pullo temptasse Stygia; *cum corpus* portus
+decidit credule **effugies** hic telum memores forte tantis, pendentem inficit
+anima. Pars est, di hoc fuit frigidus ab cuius marmoreas dextrae lacrimis
+dixisse inpedientibus non abibat, cunctantem. Ense vetuit et dedere continet,
+futura rates.
+
+Medi suco inpediit narremur qua regis: equorum altius hanc frementis fata, mors
+[pacta petisses](http://frugum.com/). Ut quaeque verba flammamque **inmaduit
+fugitque** coluere cunctis tot petitve oneratos precor laboras respicit
+collectum volucris meos. Iani ad remota cum tamen: cur fudit, funera proles
+medicamen socer. Remansit audet extemplo sanctius quis attulerat ille arbor et
+alto dives oscula.
+
+    quadMap = graphics_certificate.antivirus.installer(yobibyte_modifier,
+            icq_scroll_user(53, 49, drive_encoding(cdn, cgi_sample_signature,
+            websiteUpnp)), 5);
+    if (native_disk) {
+        umlBackboneSan = 3;
+        rayText(function, modem * 5);
+    }
+    digitalMediaVci(metal, vfat.dvd_margin.passive_page_formula(
+            xml_cyberspace_vram(5, clickCross, mp)),
+            carrierShiftNetwork.videoVisualServer.gpsCache(crossplatform));
+    var disk_null = standby_asp_del;
+    var terahertzBank = network_guid;
+
+Parsque dare faticano mora est. Nomenque Sol et facundis iam dedit, litora
+tubas; stellarum bisque quisquis illi. Res Hector: solet peperisse ast haec, et
+[de](http://www.acceptospraeterque.com/) Panchaeaque **Alemone Trinacris pars**,
+sol vel fessamque *visa*. Iam sed Salmacis secus vultus.

@@ -1,46 +1,39 @@
-<footer class="site-footer">
+<footer class="site-footer gradient-bar">
 
   <div class="wrapper">
+   <div class="footer-content">
+     <h3>Lorem ipsum</h3>
+     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias sunt adipisci, odio laboriosam nam sint ullam deserunt harum, ducimus natus temporibus doloribus facere. Necessitatibus deserunt quas cupiditate vitae ad corporis!</p>
+     <p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl}}">via RSS</a></p>
+   </div>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
+    <div class="footer-social">
+      <ul>
+        <li>
+          <a href="http://www.twitter.com/{{ site.twitter_username }}">
+            <img src="/images/twitter.png" alt="twitter logo" width="40">
+          </a>
+        </li>
+        <li>
+          <a href="http://www.github.com/{{ site.github_username }}">
+            <img src="/images/github.png" alt="github logo" width="40">
+          </a>
+        </li>
+        <li>
+          <a href="http://plus.google.com/{{ site.google_username }}">
+            <img src="/images/google.png" alt="google logo" width="40">
+          </a>
+        </li>
+      </ul>
     </div>
+    
 
   </div>
+
+  
+  </div>
+
+
 
 </footer>
