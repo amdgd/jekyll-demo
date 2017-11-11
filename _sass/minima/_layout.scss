@@ -51,8 +51,41 @@
   float:right;
   li {
     display:inline-block;
-    margin: 0 0.5em
+    margin: 0 0.5em;
   }
 }
+
+.site-section {
+  @extend %clearfix;
+  padding-top: $h1-font-size
+}
+
+.site-section-last {
+  padding-bottom: $h1-font-size
+}
+
+.post-list {
+  @extend %clearfix;
+  list-style:none;
+  box-sizing: border-box;
+}
+
+.post {
+  float:left;
+  width:50%;
+  padding:0 3em 1em;
+
+  &:nth-child(odd){
+    clear:both;
+  }
+
+
+}
+
+.post-read-more-link {
+  text-align:center;
+}
+
+
 
 

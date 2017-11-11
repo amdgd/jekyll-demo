@@ -1,5 +1,6 @@
 @charset "utf-8";
 
+
 // Define defaults for each variable.
 
 $base-font-family: 'Avenir Next', "Helvetica Neue", Helvetica, Arial, sans-serif !default;
@@ -25,10 +26,15 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 
+$mega-font-size: 100px;
+$h1-font-size: 70px;
+$h2-font-size: 40px;
+$h3-font-size: 30px;
+$h4-font-size: 24px;
 
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1200px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
